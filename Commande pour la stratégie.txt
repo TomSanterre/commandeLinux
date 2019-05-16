@@ -1,0 +1,2 @@
+- Commande pour connaître la stratégie en cours  : Get-ExecutionPolicy
+- Commande pour modifier la stratégie : Set-ExecutionPolicy RemoteSigned
