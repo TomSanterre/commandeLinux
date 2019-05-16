@@ -1,2 +1,2 @@
-# commandeLinux
-Quelques commandes Linux utiles
+# commandePowershell
+Quelques commandes Powershell utiles
